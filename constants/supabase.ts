@@ -1,0 +1,3 @@
+export const supaUrl = 'https://zsyjmgdumoevbcekimhz.supabase.co';
+
+export const anonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpzeWptZ2R1bW9ldmJjZWtpbWh6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDQ0NTk4ODYsImV4cCI6MjA2MDAzNTg4Nn0.41nRaOeW8AnlGjH8JCO2ruhfjc9-lpw4tU7LYmAfsX0'
